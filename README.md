@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paoxiaode
-- 👀 I’m interested in DSP, big data, mechine learning
+- 👀 I’m interested in GPU, compute Arch, mechine learning
 - 📫 Personal website http://lostland.top
 
 <!---
